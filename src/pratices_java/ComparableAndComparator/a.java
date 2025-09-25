@@ -28,7 +28,7 @@ class stud implements Comparable<stud>{
 
     @Override
     public int compareTo(stud o) {
-        return o.rollNO -this.rollNO;
+        return Integer.compare(o.rollNO,this.rollNO);
     }
 }
 
