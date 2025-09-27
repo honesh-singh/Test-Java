@@ -1,4 +1,4 @@
-package pratices_java.CollectionFramework.list.arraylist;
+package practice_java.CollectionFramework.list.arraylist;
 // Reverse an ArrayList
 // Write a program to reverse an ArrayList<Integer> without using Collections.reverse()
 import java.util.ArrayList;

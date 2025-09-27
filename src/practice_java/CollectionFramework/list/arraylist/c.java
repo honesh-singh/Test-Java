@@ -1,4 +1,4 @@
-package pratices_java.CollectionFramework.list.arraylist;
+package practice_java.CollectionFramework.list.arraylist;
 
 // Basic Operations
 // Create an ArrayList<Integer> and perform the following:

@@ -1,4 +1,4 @@
-package pratices_java.Extra;
+package practice_java.Extra;
 
 class a1{
     {  // when constructor is invoked instance block run first   instance block -> constructor

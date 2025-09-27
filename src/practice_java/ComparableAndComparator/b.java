@@ -1,4 +1,4 @@
-package pratices_java.ComparableAndComparator;
+package practice_java.ComparableAndComparator;
 
 import java.util.Arrays;
 import java.util.Collections;

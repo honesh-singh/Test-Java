@@ -1,4 +1,4 @@
-package pratices_java.FunctionalProgramming.MethodReferences;
+package practice_java.FunctionalProgramming.MethodReferences;
 
 import java.util.function.Function;
 

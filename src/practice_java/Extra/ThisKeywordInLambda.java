@@ -1,4 +1,4 @@
-package pratices_java.Extra;
+package practice_java.Extra;
 
 
 @FunctionalInterface

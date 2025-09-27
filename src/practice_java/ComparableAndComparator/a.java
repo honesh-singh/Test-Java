@@ -1,10 +1,9 @@
-package pratices_java.ComparableAndComparator;
+package practice_java.ComparableAndComparator;
 //Comparable is used when a class has a natural ordering,
 // and you implement it inside the class using compareTo.
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 class stud implements Comparable<stud>{

@@ -1,4 +1,4 @@
-package pratices_java.CollectionFramework.list.arraylist;
+package practice_java.CollectionFramework.list.arraylist;
 import java.util.ArrayList;
 import java.util.ListIterator;
 import java.util.Iterator;
