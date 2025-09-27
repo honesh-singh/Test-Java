@@ -9,13 +9,13 @@ class a1{
     }
 }
 
-public class a {
+public class InstanceAndStaticBlock {
    // static block runs first → when the class a is loaded into JVM (only once)
     static{
         System.out.println("this is static block of a ......");
     }
 
-    a(){
+    InstanceAndStaticBlock(){
         System.out.println("a's constructor here.......");
     }
     {
@@ -24,10 +24,10 @@ public class a {
     public static void main(String[] args) {
         System.out.println("main method......");
          new a1();
-        new a();
+        new InstanceAndStaticBlock();
         new a1();
 
-        new a();
+        new InstanceAndStaticBlock();
     }
 
 }
